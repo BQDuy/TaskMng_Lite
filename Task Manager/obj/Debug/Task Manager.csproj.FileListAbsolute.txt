@@ -1,0 +1,22 @@
+H:\New folder (3)\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+H:\New folder (3)\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+H:\New folder (3)\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+H:\New folder (3)\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+H:\New folder (3)\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+H:\New folder (3)\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+H:\New folder (3)\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+H:\New folder (3)\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+H:\New folder (3)\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+H:\New folder (3)\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
+H:\New folder (3)\Task Manager\Task Manager\obj\Debug\Task_Manager.Form1.resources
+C:\Users\BBT\Desktop\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\BBT\Desktop\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\BBT\Desktop\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\BBT\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\BBT\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\BBT\Desktop\Task Manager\Task Manager\obj\Debug\Task_Manager.Form1.resources
+C:\Users\BBT\Desktop\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\BBT\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\BBT\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\BBT\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\BBT\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
